@@ -1,0 +1,5 @@
+Design a circuit made up of Half- and Full-Adders with the least depth possible.
+Circuit calculates the digit sum of an 9-bit input word as 4-bit count.
+
+Example: In ds9(1,1,0,0,1,1,0,1,1) = 0110b = 6d, as the input word had 6 ones.
+Then find the depth of the longest path.
